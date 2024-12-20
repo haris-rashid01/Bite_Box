@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "screens/navigation.tsx", "screens/MainScreen.tsx", "food-app/schemaTypes/dish.js", "food-app/schemaTypes/restaurant.js", "food-app/schemaTypes/featured.js", "sanity.js"  ]
 }
